@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.d{
+	background-color: purple;
+	color: white;
+}
+
+.u{
+	background-color: deeppink;
+}
+
+body{
+	background-color: purple;
+}
+
+
+tbody td{
+    width: 150px;
+    height: 50px;
+    background-color: rgb(158, 123, 255);
+    border: 2px solid black;
+}
+
+tfoot td{
+	border: 2px solid black;
+	background-color: rgb(158, 123, 255); 
+}
+
+caption{
+	font-size: 50px;
+	color: white;
+	margin-bottom: 10px;
+}
+
+thead tr:first-child{
+	
+}
+
+table{
+	text-align: center;
+	position: absolute;
+	border-collapse: collapse;
+    top: 5%;
+    left: 0.5%;
+    font-family: work sans;
+    font-family: 'Rubik', sans-serif;
+    width: 99%;
+}
+
+.l{
+    text-align: center;
+    background-color: rgb(115, 106, 255);
+}
+
+.d{
+	border: none;
+}
+
+thead td{
+	border: none;
+    height: 60px;
+}
+
